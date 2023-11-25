@@ -1,3 +1,1 @@
-# Django-PersPort
-# Django-PersPort
-# Django-PersPort
+# Django personal portfolio
